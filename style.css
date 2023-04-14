@@ -1,0 +1,23 @@
+body{
+    color: white;
+}
+
+.form-group{
+    background-color:cornflowerblue;
+    width: 40%;
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.btn-warning{
+    visibility: hidden;
+}
+
+canvas{
+    background-color: white;
+    border-width: 50px;
+    border-color: gray;
+    border-radius: 15px;
+    width: 60%;
+    height: 400px;
+}
