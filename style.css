@@ -1,5 +1,6 @@
 body{
     color: white;
+    background-size:cover;
 }
 
 .form-group{
@@ -15,9 +16,19 @@ body{
 
 canvas{
     background-color: white;
-    border-width: 50px;
+    border-width: 10px;
     border-color: gray;
     border-radius: 15px;
-    width: 60%;
-    height: 400px;
+    margin-top: 280px;
+}
+
+.copy_right_footer{
+    position: fixed;    
+    background-color: gray;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    line-height: 20px;    
+    text-align: center;
+    margin-top: 25px;
 }
